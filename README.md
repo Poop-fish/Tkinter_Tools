@@ -1,6 +1,6 @@
 # Utility Tools: Auto Clicker, ICO Converter, Python to EXE Converter & ASCII Generator
 
-A collection of four powerful tools built using Python and `tkinter`:
+A collection of tools built using Python and `tkinter`:
 
 - **Auto Clicker**: Automates mouse clicks with customizable intervals and hotkey support.  
 - **ICO Converter**: Converts PNG images to ICO format with multiple size options and live preview.  
