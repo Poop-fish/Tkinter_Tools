@@ -68,9 +68,9 @@ After you intsall these if it still doesnt work just copy paste all the imports 
 
 --- 
 
-### How to Use
+# How to Use
 
-#### Auto Clicker
+### Auto Clicker
 
  - Run the script
 AutoClicker.py
@@ -90,7 +90,7 @@ Change Keybinds
 
 - Right-click the Start/Stop button and press a new key.
 
-#### ICO Converter
+###ICO Converter
 
 - Run the script
 IconConverter.py
@@ -106,7 +106,7 @@ Convert the Image
 - Click "Convert to ICO", select a save location, and done! 🎉
 
 
-#### Python to EXE Converter
+### Py to EXE Converter
 
 - Run the script
 PyExE.py
@@ -125,7 +125,7 @@ Start Conversion
 - Click "Convert to EXE", and the conversion process will begin.
 The live console output will show progress.
 
-#### ASCII Generator
+### ASCII Generator
 
 - Run the script
 ASCII_Generator.py
