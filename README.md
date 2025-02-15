@@ -6,7 +6,7 @@ A collection of tools built using Python and `tkinter`:
 - **ICO Converter**: Converts PNG images to ICO format with multiple size options and live preview.  
 - **Python to EXE Converter**: Converts `.py` files to standalone `.exe` executables with PyInstaller.  
 - **ASCII Generator**: Converts text and images into ASCII art with customizable fonts and stylized output.  
-
+-**Bug Rporting App**: Easy and simple way to track bugs 
 ---
 
 ## Features
@@ -44,12 +44,24 @@ Multi-threaded execution to prevent UI freezing.
  Adjustable font size and selection from a wide range of fonts.  
  Supports **PNG**, **JPG**, and **JPEG** image formats for conversion.  
 
+### **Bug Reporting App**
+- A user-friendly application designed to report bugs with detailed descriptions, reproduction steps, severity, platform, and game version.  
+
+- **Features:**
+  - Submit and view detailed bug reports with options to add screenshots and videos.
+  - Filter and search through submitted reports based on title, severity, and status.
+  - Edit, delete, and mark reports as resolved.
+  - Real-time status updates and reports management.
+- The app provides a dynamic UI with a customizable sidebar and progress indicators for uploading files.
+- Bug reports are saved to a JSON file, allowing for persistent storage and management.
+- Includes a color cycling background for an engaging user experience.  
+
 ---
 
 ### **Install dependencies**
 
 ```python
-pip install pyautogui keyboard pillow pyinstaller pyfiglet pyperclip numpy
+pip install pyautogui keyboard pillow pyinstaller pyfiglet pyperclip numpy tkinter tk colorsys
 ```
 
 After you intsall these if it still doesnt work just copy paste all the imports into chatgpt or google for the insalls.
