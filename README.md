@@ -6,7 +6,7 @@ A collection of tools built using Python and `tkinter`:
 - **ICO Converter**: Converts PNG images to ICO format with multiple size options and live preview.  
 - **Python to EXE Converter**: Converts `.py` files to standalone `.exe` executables with PyInstaller.  
 - **ASCII Generator**: Converts text and images into ASCII art with customizable fonts and stylized output.  
--**Bug Rporting App**: Easy and simple way to track bugs 
+- **Bug Rporting App**: Easy and simple way to track bugs 
 ---
 
 ## Features
