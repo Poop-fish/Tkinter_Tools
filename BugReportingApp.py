@@ -71,17 +71,17 @@ class BugReporterApp:
         
         ttk.Label(parent, text="Bug Title:", font=('Arial', 12, 'bold')).grid(row=row, column=0, sticky=tk.E, pady=2)
         self.title_entry = ttk.Entry(parent, width=60)
-        self.title_entry.grid(row=row, column=1, columnspan=5, sticky=tk.W, pady=2)  # Adjusted columnspan
+        self.title_entry.grid(row=row, column=1, columnspan=5, sticky=tk.W, pady=2)  # \\ columnspan Ajusments
         row += 1
         
         ttk.Label(parent, text="Description:", font=('Arial', 12, 'bold')).grid(row=row, column=0, sticky=tk.NE, pady=2)
         self.desc_text = tk.Text(parent, width=90, height=20, bg='#4d4d4d', fg='white')
-        self.desc_text.grid(row=row, column=1, columnspan=5, sticky=tk.W, pady=2)  # Adjusted columnspan
+        self.desc_text.grid(row=row, column=1, columnspan=5, sticky=tk.W, pady=2)  # \\ columnspan Ajusments
         row += 1
         
         ttk.Label(parent, text="Reproduction Steps:", font=('Arial', 12, 'bold')).grid(row=row, column=0, sticky=tk.NW, pady=2)
         self.steps_text = tk.Text(parent, width=90, height=10, bg='#4d4d4d', fg='white')
-        self.steps_text.grid(row=row, column=1, columnspan=5, sticky=tk.W, pady=2)  # Adjusted columnspan
+        self.steps_text.grid(row=row, column=1, columnspan=5, sticky=tk.W, pady=2) # \\ columnspan Ajusments
         row += 1
 
         self.upload_frame = ttk.LabelFrame(parent, text="Upload Buttons", padding=10)
