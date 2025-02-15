@@ -90,7 +90,7 @@ Change Keybinds
 
 - Right-click the Start/Stop button and press a new key.
 
-###ICO Converter
+### ICO Converter
 
 - Run the script
 IconConverter.py
