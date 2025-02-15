@@ -43,6 +43,8 @@ Multi-threaded execution to prevent UI freezing.
  Stylize output with borders and copy the result to clipboard.  
  Adjustable font size and selection from a wide range of fonts.  
  Supports **PNG**, **JPG**, and **JPEG** image formats for conversion.  
+ 
+---
 
 ### **Bug Reporting App**
 - A user-friendly application designed to report bugs with detailed descriptions, reproduction steps, severity, platform, and game version.  
