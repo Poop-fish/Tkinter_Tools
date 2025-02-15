@@ -68,7 +68,7 @@ After you intsall these if it still doesnt work just copy paste all the imports 
 
 --- 
 
-# How to Use
+# How to Basics
 
 ### Auto Clicker
 
