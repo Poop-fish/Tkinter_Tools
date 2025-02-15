@@ -5,7 +5,7 @@ class AutoClickerApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Auto Clicker")
-        self.root.geometry("410x400")
+        self.root.geometry("450x400")
         self.root.resizable(False, False)
         self.root.configure(bg="black")
         self.root.iconbitmap("Assets/Appicon_1.ico")
@@ -70,14 +70,14 @@ class AutoClickerApp:
         #! ----
         self.info_label = ttk.Label(
             self.main_frame,
-            text="Press Your Start Key\nKeybind multiple times to increase click speed\nBEWARE DONT GO TO FAST",
+            text="Press And Hold Your Start Key\nKeybind multiple times to increase click speed\nBEWARE DONT GO TO FAST",
             justify=tk.CENTER
         )
         self.info_label.grid(row=3, column=0, columnspan=2, pady=5)
 
         self.info_label2 = ttk.Label(
             self.main_frame,
-            text="Right-click the Start/Stop button to set a custom keybind",
+            text="Right-click Start/Stop button and click a Key you want to bind",
             justify=tk.CENTER
         )
         self.info_label2.grid(row=4, column=0, columnspan=2, pady=5)
