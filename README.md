@@ -1,3 +1,16 @@
+
+# Disclaimer
+### ⚠ Use these tools responsibly.
+
+- The Auto Clicker may be considered cheating in certain applications—use it ethically.
+
+- The ICO Converter supports PNG transparency, but results may vary based on input quality.
+
+- The Python to EXE Converter requires PyInstaller and works best with scripts that don’t have external dependencies.
+
+- The ASCII Generator supports images in PNG, JPG, and JPEG formats, but results may vary based on input image complexity.
+---
+ 
 # Random Utility Tools
 
 Here is a collection of tools built using Python and `tkinter`:
@@ -157,14 +170,3 @@ Stylize Text
 Use the Copy to Clipboard button to copy the ASCII output for use elsewhere.
 
 ---
-
-# Disclaimer
-### ⚠ Use these tools responsibly.
-
-- The Auto Clicker may be considered cheating in certain applications—use it ethically.
-
-- The ICO Converter supports PNG transparency, but results may vary based on input quality.
-
-- The Python to EXE Converter requires PyInstaller and works best with scripts that don’t have external dependencies.
-
-- The ASCII Generator supports images in PNG, JPG, and JPEG formats, but results may vary based on input image complexity.
