@@ -1,4 +1,4 @@
-# Utility Tools: Auto Clicker, ICO Converter, Python to EXE Converter & ASCII Generator
+# Random Utility Tools
 
 A collection of tools built using Python and `tkinter`:
 
