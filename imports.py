@@ -6,13 +6,15 @@ from tkinter import ttk, filedialog, messagebox , scrolledtext
 from PIL import Image, ImageTk
 
 # \\ Base imports \\
-import pyautogui, keyboard, threading, time, os
+import pyautogui, keyboard, threading, time, os, sys
 
 # TODO: Organize these imports 
 import numpy as np
 import pyfiglet
 import pyperclip  
 import subprocess
-import os
 import threading
-import queue
+import queue 
+import json
+import colorsys
+from datetime import datetime
