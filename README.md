@@ -158,7 +158,7 @@ Use the Copy to Clipboard button to copy the ASCII output for use elsewhere.
 
 ---
 
-#⚠️ Disclaimer
+# Disclaimer
 ### ⚠ Use these tools responsibly.
 
 The Auto Clicker may be considered cheating in certain applications—use it ethically.
