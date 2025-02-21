@@ -17,4 +17,12 @@ import threading
 import queue 
 import json
 import colorsys
-from datetime import datetime
+import random
+import string
+import GPUtil
+import psutil
+import webview
+from datetime import datetime 
+
+import matplotlib.pyplot as plt
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
